@@ -1,0 +1,54 @@
+AWS Public Sector Blog
+Students across Arizona participate in a statewide robotics hackathon
+by Audrey Bierly | on 21 NOV 2019 | in AWS Educate, AWS RoboMaker, Education, Higher Education, 
+Public Sector, Robotics | Permalink |  Comments |  Share
+Photo courtesy Grace Lieberman, The State Press
+Photo courtesy Grace Lieberman, The State Press
+
+In collaboration with Amazon Web Services (AWS) and NVIDIA, Arizona State University (ASU) 
+hosted its first-ever robotics hackathon. At the Arizona Robo Hackathon, 64 undergraduate and 
+graduate students across seven institutions came together to compete in an Arizona statewide 
+competition hosted on AWS.
+
+Inside the Hackathon
+Students formed 15 teams and spent the weekend competing in four missions:
+
+Assemble a SparkFun JetBot AI Kit powered by NVIDIA Jetson Nano
+Bring the NVIDIA JetBot to life and make it spin on its own
+Have the NVIDIA JetBot autonomously navigate a LEGO track
+Design, develop, and deploy new capabilities to the NVIDIA JetBot using the AWS Cloud
+By the end of the hackathon, students successfully applied their knowledge of computer science, 
+engineering, and programming skills in robotics and artificial intelligence (AI) application 
+development. The first-place team, Light Speed, showcased an NVIDIA JetBot that navigated a 
+LEGO track in under 10 seconds and could recognize and locate a picture of Jeff Bezos. 
+Their solution used technologies like Amazon Simple Storage Service (Amazon S3), an 
+Amazon SageMaker Jupyter notebook powered by Amazon Elastic Compute Cloud (Amazon EC2), 
+Amazon Simple Notification Service (Amazon SNS), and AWS RoboMaker. Light Speed team members 
+Christopher Harsh, Riley Tallman, Shabab Siddique, Tyriq Hayes, and Xina Tang won a $5,000 
+prize. The second-place team received a prize of $2,500 and the third-place team received a 
+prize of $1,000.
+
+“It’s amazing to see what students accomplished in a single weekend,” said John Rome, 
+Deputy CIO at Arizona State University. “In addition to robot assembly, students leveraged 
+the AWS Cloud to give their robots new capabilities, like identifying objects, spelling words, 
+and even singing classic rock songs. It was great that the AWS team and NVIDIA team supported 
+students throughout the weekend – including nights with no sleep – providing expertise through 
+technical training sessions, encouragement, and mentorship.”
+
+AWS and NVIDIA sponsored the event, donating the time of several solutions architects, 
+engineers, and program managers. These stakeholders led pre-hackathon training sessions 
+on AWS Cloud basics, Python, Amazon SageMaker, Robot Operating System (ROS), AWS RoboMaker, 
+and NVIDIA JetBot assembly. Students also signed up for AWS Educate, Amazon’s global 
+initiative that provides students and educators with the resources needed to accelerate 
+cloud-related learning.
+
+“We worked hard throughout the hackathon, but it was worth it. We enjoyed applying 
+machine learning on AWS to the NVIDIA JetBot and it was rewarding to show it off 
+moving intelligently in real space,” said Christopher Harsh, a student at ASU and 
+member of Light Speed.
+
+Interested in hosting a robotics hackathon at your institution? 
+Contact aws-robomaker-academics@amazon.com.
+https://aws.amazon.com/blogs/publicsector/students-across-arizona-participate-in-a-statewide-robotics-hackathon/
+
+
